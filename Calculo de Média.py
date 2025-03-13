@@ -1,4 +1,4 @@
-#A,B e C = notas
+#A,B e C = notas a serem recebidas
 A = float(input()) 
 B = float(input())
 C = float(input())
